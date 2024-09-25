@@ -13,5 +13,6 @@ Table of Contents:
 Description: This project is done on Jupyter Lab (version: 4.0.7), Jupyter Notebook (version: 7.0.6), 
 IPYKernel (version: 6.26.0), Python (version: 3.12.0) 64-bit, Pandas (version: 2.2.2), Seaborn (version: 0.13.2) and Matplotlib (version: 3.9.2)
 
-
 Note: All the CSV, IPYNB and PY contain dummy data
+
+Copyright © 2024 Shams Ashraf Khan. All rights reserved.
